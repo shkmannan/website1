@@ -33,7 +33,7 @@ A modern, responsive single-page travel website showcasing India’s top destina
 
 ---
 
- ###Technologies Used
+ ### Technologies Used
 
 - HTML5
 - Inline CSS (with CSS variables)
