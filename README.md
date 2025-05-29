@@ -3,7 +3,7 @@ A modern, responsive single-page travel website showcasing India’s top destina
 
 ---
 
-~ Features
+### Features
 - Fully Responsive Design
   Works beautifully on desktop and mobile devices.
 
@@ -47,32 +47,30 @@ A modern, responsive single-page travel website showcasing India’s top destina
 
 ### 1. Dark Mode Toggle
 
+![dark](https://github.com/user-attachments/assets/04a92bea-9669-4fb8-bc9d-2fba3ccf0ef3)
 
-```
+---
+### 2. Booking Form Modal
 
-### 2. Flip Card Functionality
+![card](https://github.com/user-attachments/assets/2cc81a9c-e0ad-4bfa-91cb-d45e444062a8)
 
-```
+---
 
 ### 3. Booking Form Modal
 
-```
+![form](https://github.com/user-attachments/assets/0fb73cab-aa83-4716-bbd8-8b28f58d78a6)
+
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of your site here for a better showcase!_
-
----
-
-~ License
+### License
 
 This project is for educational and demonstration purposes.
 
 ---
 
-~Credits
+### Credits
 
 - Images from Unsplash, TripAdvisor, and official hotel/tourism sites.
 - Icons by [Font Awesome](https://fontawesome.com/).
